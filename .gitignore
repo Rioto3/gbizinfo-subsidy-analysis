@@ -2,3 +2,10 @@ data/raw/
 config.py
 
 old
+
+
+
+
+# Start Generation Here
+.env
+# End Generation Here
