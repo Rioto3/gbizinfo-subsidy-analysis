@@ -9,3 +9,8 @@ old
 # Start Generation Here
 .env
 # End Generation Here
+
+notebooks
+assets
+
+*.sqlite3
