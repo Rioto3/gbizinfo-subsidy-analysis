@@ -10,7 +10,5 @@ old
 .env
 # End Generation Here
 
-notebooks
-assets
-
 *.sqlite3
+*work*
