@@ -1,4 +1,2 @@
-data/raw/
-config.py
-
-old
+*.sqlite3
+*work*
