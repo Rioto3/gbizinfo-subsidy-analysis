@@ -1,7 +1,10 @@
 # gBizINFO APIを用いた宮城県補助金データ分析パイプライン
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Rioto3/gbizinfo-subsidy-analysis/blob/feature%2Fpg-make/gbizinfo_miyagi.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Rioto3/gbizinfo-subsidy-analysis/blob/main/gbizinfo_miyagi.ipynb)
 
+
+
+      
 ## プロジェクト概要
 
 本プロジェクトは、gBizINFO APIを活用して宮城県の補助金データを収集・分析するためのデータサイエンスパイプラインです。特に、補助金受給の構造的な傾向を可視化することを目的としています。
